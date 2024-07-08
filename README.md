@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mateusz-kurowskiUG
 - 👀 I’m interested in Web-Development
-- 🌱 I’m currently learning React, Elysia.js, Java, Golang, Docker, Kubernetes
+- 🌱 I’m currently learning React (Next.js), Express.js, Hono, Java (Spring Boot), Golang, Docker, Kubernetes
 - My favourites:
   
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
